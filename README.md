@@ -15,9 +15,11 @@ The primary goal of this project is to demonstrate a responsive layout that work
 
 Snapshots
 Larger Screen Viewpoint
+
 ![image](https://github.com/user-attachments/assets/07980df1-b906-4b10-8a0f-5636724b1026)
 
 Phone Screen Viewpoint
+
 ![image](https://github.com/user-attachments/assets/15d29f71-6d3e-453a-84d7-f1f04b90fad8)
 
 Installation and Setup
