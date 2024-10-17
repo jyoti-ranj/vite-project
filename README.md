@@ -7,10 +7,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Responsive Design with Tailwind CSS
+# Responsive Design with Tailwind 
 This project is a simple web page designed using React.js and Tailwind CSS to showcase responsive design. The layout adapts to different screen sizes, providing a visual preview for both mobile and larger screen viewpoints.
 
-Purpose
+# Purpose
 The primary goal of this project is to demonstrate a responsive layout that works well across different devices. It doesn't contain interactive features but focuses on design and layout structure.
 
 Snapshots
@@ -22,8 +22,8 @@ Phone Screen Viewpoint
 
 ![image](https://github.com/user-attachments/assets/15d29f71-6d3e-453a-84d7-f1f04b90fad8)
 
-Installation and Setup
-To view the project locally, follow these steps:
+# Installation and Setup
+# To view the project locally, follow these steps:
 
 1) Clone the repository:
    git clone https://github.com/your-username/your-project.git
@@ -36,7 +36,8 @@ To view the project locally, follow these steps:
 5) Open your browser and go to:
     http://localhost:3000
 
-Technologies Used
+# Technologies Used
+
 React.js: For component-based UI structure.
 Tailwind CSS: For responsive and utility-first CSS styling.
 Vite: For fast development build.
